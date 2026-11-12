@@ -3,12 +3,12 @@
   "name": "Nuvio Max'd",
   "kind": "app",
   "category": "video",
-  "description": "Experimental Nuvio Max'd for PS5 with an optional privileged USB playlist reader for sandbox access failures (unconfirmed fix), private mount diagnostics, profiles, IPTV and media servers.",
+  "description": "Nuvio Max'd for PS5: profiles, IPTV/media servers, encrypted backup, TVDB ordering and Stalker/Ministra. Optional privileged USB reader; new integrations await hardware/provider confirmation.",
   "license": "GPL-3.0",
   "author": "HandshakeHackin",
-  "version": "1.0.0.18-native",
+  "version": "1.0.0.20-native",
   "source_repo": "https://github.com/HandshakeHackin/Nuvio-maxd-releases",
-  "artifact_url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.18-native/PPSA99288.zip",
-  "sha256": "02dca19b5ecb52c051af179c5d04d0e015b838b2b1f92d5249cee3624d755243",
-  "icon_url": "https://raw.githubusercontent.com/HandshakeHackin/Nuvio-maxd-releases/v1.0.0.18-native/sce_sys/icon0.png"
+  "artifact_url": "https://github.com/HandshakeHackin/Nuvio-maxd-releases/releases/download/v1.0.0.20-native/PPSA99288.zip",
+  "sha256": "3ff84b849c7db60d4d338a448db0f80f655c26417a4ee195365dac62f44476e8",
+  "icon_url": "https://raw.githubusercontent.com/HandshakeHackin/Nuvio-maxd-releases/v1.0.0.20-native/sce_sys/icon0.png"
 }
